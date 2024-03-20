@@ -138,7 +138,7 @@
         <migbase64.version>2.2</migbase64.version>
         
         <!-- Postgres driver -->
-        <postgresql.driver.version>42.2.5</postgresql.driver.version>
+        <postgresql.driver.version>42.7.2</postgresql.driver.version>
         
         <!-- Stampe -->
         <!-- xalan -->
