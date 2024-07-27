@@ -48,14 +48,14 @@
 		<swagger.parser.v3.version>2.0.2</swagger.parser.v3.version>
 		
 		<!-- cxf -->
-		<cxf.version>3.2.6</cxf.version>
+		<cxf.version>3.6.1</cxf.version>
 		<cxf.xjc.runtime.version>2.7.0</cxf.xjc.runtime.version>
 		
 		<!-- jackson -->
-		<jackson.version>2.9.10</jackson.version>
+		<jackson.version>2.15.0</jackson.version>
 		
 		<!-- Jersey -->
-		<jersey.version>2.25.1</jersey.version>
+		<jersey.version>2.26</jersey.version>
 		
 		<!-- Spring -->
 		<spring.version>5.1.6.RELEASE</spring.version>
