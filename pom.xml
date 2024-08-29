@@ -154,7 +154,7 @@
         <!-- com.google.zxing.javase -->
         <com.google.zxing.javase.version>2.2</com.google.zxing.javase.version>
         <!-- dynamicreports-core -->
-        <dynamicreports-core.version>4.1.1</dynamicreports-core.version>
+        <dynamicreports-core.version>6.1.0</dynamicreports-core.version>
 	</properties>
 
 	<dependencyManagement>
