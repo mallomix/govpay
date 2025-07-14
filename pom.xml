@@ -150,7 +150,7 @@
         <!-- Groovy -->
         <groovy.version>2.4.5</groovy.version>
         <!-- xmlgraphics-commons -->
-        <xmlgraphics.commons.version>2.1</xmlgraphics.commons.version>
+        <xmlgraphics.commons.version>2.11</xmlgraphics.commons.version>
         <!-- com.google.zxing.javase -->
         <com.google.zxing.javase.version>2.2</com.google.zxing.javase.version>
         <!-- dynamicreports-core -->
