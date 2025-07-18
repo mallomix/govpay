@@ -48,7 +48,7 @@
 		<swagger.parser.v3.version>2.0.2</swagger.parser.v3.version>
 		
 		<!-- cxf -->
-		<cxf.version>3.2.6</cxf.version>
+		<cxf.version>3.5.11</cxf.version>
 		<cxf.xjc.runtime.version>2.7.0</cxf.xjc.runtime.version>
 		
 		<!-- jackson -->
@@ -100,7 +100,7 @@
 		<fge_json-schema-validator.version>2.2.10</fge_json-schema-validator.version>
 		
 		<!-- networknt_json-schema-validator -->
-		<networknt_json-schema-validator.version>0.1.21</networknt_json-schema-validator.version>
+		<networknt_json-schema-validator.version>1.0.82</networknt_json-schema-validator.version>
 		
 		<!-- org.json -->
 		<org.json.json.version>20180813</org.json.json.version>
